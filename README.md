@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, Python, DSA**
 
-- 📫 How to reach me **stripathi.ai@gmaail.com**
+- 📫 How to reach me **stripathi.ai@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shruti-tripathi-5b17a6296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/shruti-tripathi-5b17a6296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
