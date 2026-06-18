@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutitripath0&label=Profile%20views&color=0e75b6&style=flat" alt="shrutitripath0" /> </p>
-- 🌱 I’m currently learning **DSA, React, Node**
+- 🌱 I’m currently learning and improving my skills in ""SQL, Microsoft Excel, Power BI, Python, and Statistics.""**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutitripath0](https://github.com/shrutitripath0)
 
