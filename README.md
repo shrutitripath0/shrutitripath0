@@ -2,7 +2,7 @@
 **shrutitripath0/shrutitripath0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi there 👋, I'm Shruti Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India and also pursuing B.tech in CS</h3>
+<h3 align="center">A passionate Data Analyst Fresher from India and also completed B.tech in CS</h3>
 <img align="right" alt="coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutitripath0&label=Profile%20views&color=0e75b6&style=flat" alt="shrutitripath0" /> </p>
