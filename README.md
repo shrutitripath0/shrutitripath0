@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shrutitripath0](https://github.com/shrutitripath0)
 
-- 💬 Ask me about **C, C++, Java, HTML, CSS, Python, DSA**
+- 💬 Ask me about **Data Analysis, MySQL, Excel, PowerBI, Tableau, Pytho, Data cleaning, Data Visualization, Statistics, Problem Solving, Data Modeling, Dashboard Development, Pivot Tables, VLOOKUP/XLOOKUP, Power Query, Pandas, NumPy**
 
 - 📫 How to reach me **stripathi.ai@gmail.com**
 
